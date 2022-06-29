@@ -1,10 +1,26 @@
 {
   "files": {
-    "main.js": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.f1b3c2f3.js",
+    "main.css": "/Mohammad_Abdullah_WDDM_122_Project_1/static/css/main.a72931f6.css",
+    "main.js": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.f6aa9d1c.js",
+    "static/media/fa-solid-900.ttf": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-solid-900.56f958545ad7789238b6.ttf",
+    "static/media/gallery-05.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-05.c2fe1a3a55b828c3d019.jpg",
+    "static/media/fa-brands-400.ttf": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-brands-400.6d60cc0a73061e1e6aad.ttf",
+    "static/media/fa-solid-900.woff2": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-solid-900.a66b80c86247807d0747.woff2",
+    "static/media/fa-brands-400.woff2": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-brands-400.d483dc55a91d0261f6ef.woff2",
+    "static/media/gallery-04.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-04.d297ee93a8e418e01eba.png",
+    "static/media/landing-image.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/landing-image.86a9afa9015835441220.png",
+    "static/media/fa-regular-400.ttf": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-regular-400.abc1663def2f25b507c3.ttf",
+    "static/media/gallery-03.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-03.441d2724508818362ba6.jpg",
+    "static/media/gallery-06.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-06.77bfa89ccac1791b9678.png",
+    "static/media/fa-regular-400.woff2": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-regular-400.8014bbf002ecb7a33b8f.woff2",
+    "static/media/gallery-02.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-02.773d6af27c50bea44d8d.png",
+    "static/media/gallery-01.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-01.98fee987cb7cb5221b1b.png",
     "index.html": "/Mohammad_Abdullah_WDDM_122_Project_1/index.html",
-    "main.f1b3c2f3.js.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.f1b3c2f3.js.map"
+    "main.a72931f6.css.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/css/main.a72931f6.css.map",
+    "main.f6aa9d1c.js.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.f6aa9d1c.js.map"
   },
   "entrypoints": [
-    "static/js/main.f1b3c2f3.js"
+    "static/css/main.a72931f6.css",
+    "static/js/main.f6aa9d1c.js"
   ]
 }
