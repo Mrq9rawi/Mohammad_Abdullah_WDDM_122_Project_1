@@ -1,11 +1,23 @@
-:root {
+/* Global Rules Start */
 
+:root {
+	--main-color: #2196f3;
+	--main-alt-color: #1787e0;
+	--main-padding: 100px;
+	--main-box-shadow: 0 0 10px #ddd;
+	--main-transition: 0.3s;
+	--special-heading-transition: 0.5s;
+	--section-background-color: #ececec;
 }
 
 * {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
+}
+
+body {
+	font-family: "Cairo", sans-serif;
 }
 
 html {
@@ -46,6 +58,9 @@ a {
 /* Large Screen */
 @media (min-width: 1200px) {
 	.container {
-		width: 1200px;
+		width: 1170px;
 	}
 }
+
+
+
