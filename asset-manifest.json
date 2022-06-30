@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/Mohammad_Abdullah_WDDM_122_Project_1/static/css/main.a72931f6.css",
-    "main.js": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.f6aa9d1c.js",
+    "main.css": "/Mohammad_Abdullah_WDDM_122_Project_1/static/css/main.97d3cf91.css",
+    "main.js": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.a7f1222f.js",
     "static/media/fa-solid-900.ttf": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-solid-900.56f958545ad7789238b6.ttf",
     "static/media/gallery-05.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-05.c2fe1a3a55b828c3d019.jpg",
     "static/media/fa-brands-400.ttf": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-brands-400.6d60cc0a73061e1e6aad.ttf",
     "static/media/fa-solid-900.woff2": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-solid-900.a66b80c86247807d0747.woff2",
     "static/media/fa-brands-400.woff2": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-brands-400.d483dc55a91d0261f6ef.woff2",
     "static/media/gallery-04.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-04.d297ee93a8e418e01eba.png",
+    "static/media/cat-06.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-06.e6768899aa473a8109fd.jpg",
+    "static/media/cat-01.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-01.7e3e42f0d872f6a74e5d.jpg",
     "static/media/landing-image.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/landing-image.86a9afa9015835441220.png",
+    "static/media/cat-03.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-03.266462e8c703a6808dac.jpg",
     "static/media/fa-regular-400.ttf": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-regular-400.abc1663def2f25b507c3.ttf",
     "static/media/gallery-03.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-03.441d2724508818362ba6.jpg",
+    "static/media/cat-05.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-05.22c05dc1779253449d47.jpg",
+    "static/media/cat-07.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-07.c1e0f53ca986e68fb443.jpg",
+    "static/media/cat-08.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-08.a4caf2cf13caabb4828a.jpg",
+    "static/media/cat-02.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-02.4613d9a5ca490588cf8d.jpg",
+    "static/media/cat-04.jpg": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/cat-04.cbc13852f58428288f13.jpg",
     "static/media/gallery-06.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-06.77bfa89ccac1791b9678.png",
     "static/media/fa-regular-400.woff2": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/fa-regular-400.8014bbf002ecb7a33b8f.woff2",
     "static/media/gallery-02.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-02.773d6af27c50bea44d8d.png",
     "static/media/gallery-01.png": "/Mohammad_Abdullah_WDDM_122_Project_1/static/media/gallery-01.98fee987cb7cb5221b1b.png",
     "index.html": "/Mohammad_Abdullah_WDDM_122_Project_1/index.html",
-    "main.a72931f6.css.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/css/main.a72931f6.css.map",
-    "main.f6aa9d1c.js.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.f6aa9d1c.js.map"
+    "main.97d3cf91.css.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/css/main.97d3cf91.css.map",
+    "main.a7f1222f.js.map": "/Mohammad_Abdullah_WDDM_122_Project_1/static/js/main.a7f1222f.js.map"
   },
   "entrypoints": [
-    "static/css/main.a72931f6.css",
-    "static/js/main.f6aa9d1c.js"
+    "static/css/main.97d3cf91.css",
+    "static/js/main.a7f1222f.js"
   ]
 }
