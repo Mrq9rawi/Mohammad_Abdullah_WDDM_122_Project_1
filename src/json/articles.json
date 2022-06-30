@@ -1,0 +1,34 @@
+[
+	{
+		"id": "1",
+		"src": "articleImageOne"
+	},
+	{
+		"id": "2",
+		"src": "articleImageTwo"
+	},
+	{
+		"id": "3",
+		"src": "articleImageThree"
+	},
+	{
+		"id": "4",
+		"src": "articleImageFour"
+	},
+	{
+		"id": "5",
+		"src": "articleImageFive"
+	},
+	{
+		"id": "6",
+		"src": "articleImageSix"
+	},
+	{
+		"id": "7",
+		"src": "articleImageSeven"
+	},
+	{
+		"id": "8",
+		"src": "articleImageEight"
+	}
+]

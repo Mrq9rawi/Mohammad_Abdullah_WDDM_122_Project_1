@@ -3,9 +3,9 @@
 :root {
 	--main-color: #2196f3;
 	--main-alt-color: #1787e0;
-	--main-padding: 100px;
+	--main-padding: 50px;
 	--main-box-shadow: 0 0 10px #ddd;
-	--main-transition: 0.3s;
+	--main-transition: 0.5s;
 	--special-heading-transition: 0.5s;
 	--section-background-color: #ececec;
 }
@@ -62,5 +62,79 @@ a {
 	}
 }
 
+/* Components Start */
 
+.special-heading {
+	font-size: 30px;
+	text-transform: uppercase;
+	padding: 0px 10px;
+	border: 2px solid black;
+	width: fit-content;
+	margin: 0 auto 50px;
+	position: relative;
+	z-index: 1;
+	transition: var(--main-transition);
+}
 
+.special-heading:hover {
+	border-color: var(--main-color);
+	color: white;
+	transition-delay: calc(var(--special-heading-transition) * 70 / 100);
+}
+
+.special-heading::before,
+.special-heading::after {
+	content: "";
+	width: 12px;
+	height: 12px;
+	border-radius: 100%;
+	background-color: var(--main-color);
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.special-heading::before {
+	left: -30px;
+}
+
+.special-heading:hover:before {
+	z-index: -1;
+	animation: left-move var(--special-heading-transition) linear forwards;
+}
+
+.special-heading::after {
+	right: -30px;
+}
+
+.special-heading:hover:after {
+	z-index: -1;
+	animation: right-move var(--special-heading-transition) linear forwards;
+}
+
+@keyframes left-move {
+	50% {
+		left: 0px;
+	}
+	100% {
+		left: -1%;
+		width: 52%;
+		height: 103%;
+		border-radius: 0;
+	}
+}
+
+@keyframes right-move {
+	50% {
+		right: 0px;
+	}
+	100% {
+		right: -1%;
+		width: 52%;
+		height: 103%;
+		border-radius: 0;
+	}
+}
+
+/* Components End */
+/* Global Rules End */

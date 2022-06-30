@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 export default function Nav() {
 	return (
-		<div class="container">
+		<div className="container">
 			<Link className="logo" to="/Mohammad_Abdullah_WDDM_122_Project_1/">
 				Mohammad Abdullah
 			</Link>

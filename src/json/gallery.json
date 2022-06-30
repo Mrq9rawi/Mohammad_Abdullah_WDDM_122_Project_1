@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+		"src": "imgGalleryOne"
+	},
+	{
+		"id": "2",
+		"src": "imgGalleryTwo"
+	},
+	{
+		"id": "3",
+		"src": "imgGalleryThree"
+	},
+	{
+		"id": "4",
+		"src": "imgGalleryFour"
+	},
+	{
+		"id": "5",
+		"src": "imgGalleryFive"
+	},
+	{
+		"id": "6",
+		"src": "imgGallerySix"
+	}
+]

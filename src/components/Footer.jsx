@@ -9,18 +9,18 @@ import imgGallerySix from "../img/gallery-06.png";
 export default function Footer() {
 	return (
 		<>
-			<div class="container">
-				<div class="text-content">
+			<div className="container">
+				<div className="text-content">
 					<h3>Mohammad</h3>
-					<div class="social">
-						<a href="#" class="facebook">
-							<i class="fa-brands fa-facebook-f"></i>
+					<div className="social">
+						<a href="#" className="facebook">
+							<i className="fa-brands fa-facebook-f"></i>
 						</a>
-						<a href="#" class="twitter">
-							<i class="fa-brands fa-twitter"></i>
+						<a href="#" className="twitter">
+							<i className="fa-brands fa-twitter"></i>
 						</a>
-						<a href="#" class="youtube">
-							<i class="fa-brands fa-youtube"></i>
+						<a href="#" className="youtube">
+							<i className="fa-brands fa-youtube"></i>
 						</a>
 					</div>
 					<p>
@@ -28,43 +28,43 @@ export default function Footer() {
 						dignissimos iste aspernatur
 					</p>
 				</div>
-				<ul class="links">
+				<ul className="links">
 					<li>
-						<i class="fa-solid fa-angles-right"></i>
+						<i className="fa-solid fa-angles-right"></i>
 						<a href="#">Important link 1</a>
 					</li>
 					<li>
-						<i class="fa-solid fa-angles-right"></i>
+						<i className="fa-solid fa-angles-right"></i>
 						<a href="#">Important link 2</a>
 					</li>
 					<li>
-						<i class="fa-solid fa-angles-right"></i>
+						<i className="fa-solid fa-angles-right"></i>
 						<a href="#">Important link 3</a>
 					</li>
 					<li>
-						<i class="fa-solid fa-angles-right"></i>
+						<i className="fa-solid fa-angles-right"></i>
 						<a href="#">Important link 4</a>
 					</li>
 					<li>
-						<i class="fa-solid fa-angles-right"></i>
+						<i className="fa-solid fa-angles-right"></i>
 						<a href="#">Important link 5</a>
 					</li>
 				</ul>
-				<div class="info">
-					<div class="address">
-						<i class="fa-solid fa-location-dot fa-2x"></i>
+				<div className="info">
+					<div className="address">
+						<i className="fa-solid fa-location-dot fa-2x"></i>
 						<p>164 York Mills Rd, North York, ON, Canada</p>
 					</div>
-					<div class="hours">
-						<i class="fa-regular fa-clock fa-2x"></i>
+					<div className="hours">
+						<i className="fa-regular fa-clock fa-2x"></i>
 						<p>Business Hours: From 8:00 To 16:00</p>
 					</div>
-					<div class="phone">
-						<i class="fa-solid fa-phone-volume fa-2x"></i>
+					<div className="phone">
+						<i className="fa-solid fa-phone-volume fa-2x"></i>
 						<p>+1 (647) 575-6094</p>
 					</div>
 				</div>
-				<div class="images">
+				<div className="images">
 					<img src={imgGalleryOne} alt="" />
 					<img src={imgGalleryTwo} alt="" />
 					<img src={imgGalleryThree} alt="" />
@@ -73,7 +73,7 @@ export default function Footer() {
 					<img src={imgGallerySix} alt="" />
 				</div>
 			</div>
-			<h4 class="copy">Made With &#60;3 By Mohammad</h4>
+			<h4 className="copy">Made With &#60;3 By Mohammad</h4>
 		</>
 	);
 }
